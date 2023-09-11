@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694428379 source:c:\users\student.prg-01.000\desktop\cryptography\ellptic_curve\main.c
+	<stdio.h>
+	<math.h>
+
